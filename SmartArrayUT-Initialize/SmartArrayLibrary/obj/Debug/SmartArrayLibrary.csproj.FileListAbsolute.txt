@@ -1,0 +1,59 @@
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\SmartArrayTest\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.dll
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\SmartArrayTest\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.pdb
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\SmartArrayTest\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.csprojResolveAssemblyReference.cache
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\SmartArrayTest\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.dll
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\SmartArrayTest\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Module 1 - intro\SmartArrayTestEx\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Module 1 - intro\SmartArrayTestEx\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Module 1 - intro\SmartArrayTestEx\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Module 1 - intro\SmartArrayTestEx\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Module 1 - intro\SmartArrayTestEx\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  1 - intro\SmartArrayUnitTest\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  1 - intro\SmartArrayUnitTest\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  1 - intro\SmartArrayUnitTest\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  1 - intro\SmartArrayUnitTest\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.dll
+C:\Users\kurt\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  1 - intro\SmartArrayUnitTest\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  1 - intro\SmartArrayUnitTest\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  1 - intro\SmartArrayUnitTest\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  1 - intro\SmartArrayUnitTest\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  1 - intro\SmartArrayUnitTest\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  1 - intro\SmartArrayUnitTest\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  1 - intro\SmartArrayUnitTest\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  1 - intro\SmartArrayUnitTest\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  1 - intro\SmartArrayUnitTest\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  1 - intro\SmartArrayUnitTest\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  1 - intro\SmartArrayUnitTest\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP260spr15\Topic  1 - intro\SmartArrayUnitTest\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.dll
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP260spr15\Topic  1 - intro\SmartArrayUnitTest\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP260spr15\Topic  1 - intro\SmartArrayUnitTest\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP260spr15\Topic  1 - intro\SmartArrayUnitTest\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.dll
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP260spr15\Topic  1 - intro\SmartArrayUnitTest\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog260\Topic  1 - intro\SmartArrayUTdone\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog260\Topic  1 - intro\SmartArrayUTdone\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog260\Topic  1 - intro\SmartArrayUTdone\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog260\Topic  1 - intro\SmartArrayUTdone\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog260\Topic  1 - intro\SmartArrayUTdone\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring-18\Topic  1 - intro\SmartArrayUTdone\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring-18\Topic  1 - intro\SmartArrayUTdone\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring-18\Topic  1 - intro\SmartArrayUTdone\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring-18\Topic  1 - intro\SmartArrayUTdone\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring-18\Topic  1 - intro\SmartArrayUTdone\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring-18\Topic  1 - intro\SmartArrayUTdone\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring-18\Topic  1 - intro\SmartArrayUT2018\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring-18\Topic  1 - intro\SmartArrayUT2018\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring-18\Topic  1 - intro\SmartArrayUT2018\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring-18\Topic  1 - intro\SmartArrayUT2018\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring-18\Topic  1 - intro\SmartArrayUT2018\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring-18\Topic  1 - intro\SmartArrayUT2018\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  1 - intro\SmartArrayUT-Initialize\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  1 - intro\SmartArrayUT-Initialize\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  1 - intro\SmartArrayUT-Initialize\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.csproj.AssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  1 - intro\SmartArrayUT-Initialize\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  1 - intro\SmartArrayUT-Initialize\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  1 - intro\SmartArrayUT-Initialize\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.pdb
+C:\Users\kurt.friedrich\Downloads\SmartArrayUT-Initialize\SmartArrayUT-Initialize\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.dll
+C:\Users\kurt.friedrich\Downloads\SmartArrayUT-Initialize\SmartArrayUT-Initialize\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.pdb
+C:\Users\kurt.friedrich\Downloads\SmartArrayUT-Initialize\SmartArrayUT-Initialize\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.csproj.AssemblyReference.cache
+C:\Users\kurt.friedrich\Downloads\SmartArrayUT-Initialize\SmartArrayUT-Initialize\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Downloads\SmartArrayUT-Initialize\SmartArrayUT-Initialize\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.dll
+C:\Users\kurt.friedrich\Downloads\SmartArrayUT-Initialize\SmartArrayUT-Initialize\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.pdb

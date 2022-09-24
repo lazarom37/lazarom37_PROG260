@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartArrayTest", "SmartArrayTest\SmartArrayTest.csproj", "{CAC3A455-6371-47DD-989D-A7FE8C21ADD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartArrayLibrary", "SmartArrayLibrary\SmartArrayLibrary.csproj", "{1EA321D8-C8EC-4D3F-A391-A38ADA98F193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestSmartArray", "UnitTestSmartArray\UnitTestSmartArray.csproj", "{DF625EE2-CB28-4A48-B510-CE30DCCB146B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAC3A455-6371-47DD-989D-A7FE8C21ADD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC3A455-6371-47DD-989D-A7FE8C21ADD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC3A455-6371-47DD-989D-A7FE8C21ADD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC3A455-6371-47DD-989D-A7FE8C21ADD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA321D8-C8EC-4D3F-A391-A38ADA98F193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA321D8-C8EC-4D3F-A391-A38ADA98F193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA321D8-C8EC-4D3F-A391-A38ADA98F193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA321D8-C8EC-4D3F-A391-A38ADA98F193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF625EE2-CB28-4A48-B510-CE30DCCB146B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF625EE2-CB28-4A48-B510-CE30DCCB146B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF625EE2-CB28-4A48-B510-CE30DCCB146B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF625EE2-CB28-4A48-B510-CE30DCCB146B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
