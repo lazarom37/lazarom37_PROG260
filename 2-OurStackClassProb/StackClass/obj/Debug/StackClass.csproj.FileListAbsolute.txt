@@ -1,0 +1,47 @@
+C:\Users\kurt.friedrich\Documents\Visual Studio 2013\Projects\OurStackClass\StackClass\bin\Debug\StackClass.dll
+C:\Users\kurt.friedrich\Documents\Visual Studio 2013\Projects\OurStackClass\StackClass\bin\Debug\StackClass.pdb
+C:\Users\kurt.friedrich\Documents\Visual Studio 2013\Projects\OurStackClass\StackClass\obj\Debug\StackClass.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Documents\Visual Studio 2013\Projects\OurStackClass\StackClass\obj\Debug\StackClass.dll
+C:\Users\kurt.friedrich\Documents\Visual Studio 2013\Projects\OurStackClass\StackClass\obj\Debug\StackClass.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  2 - Stacks\OurStackClass\StackClass\bin\Debug\StackClass.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  2 - Stacks\OurStackClass\StackClass\bin\Debug\StackClass.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  2 - Stacks\OurStackClass\StackClass\obj\Debug\StackClass.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  2 - Stacks\OurStackClass\StackClass\obj\Debug\StackClass.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  2 - Stacks\OurStackClass\StackClass\obj\Debug\StackClass.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  2 - Stacks\2-OurStackClassProb\StackClass\bin\Debug\StackClass.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  2 - Stacks\2-OurStackClassProb\StackClass\bin\Debug\StackClass.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  2 - Stacks\2-OurStackClassProb\StackClass\obj\Debug\StackClass.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  2 - Stacks\2-OurStackClassProb\StackClass\obj\Debug\StackClass.dll
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  2 - Stacks\2-OurStackClassProb\StackClass\obj\Debug\StackClass.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  2 - Stacks\2-OurStackClassProb\StackClass\bin\Debug\StackClass.dll
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  2 - Stacks\2-OurStackClassProb\StackClass\bin\Debug\StackClass.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  2 - Stacks\2-OurStackClassProb\StackClass\obj\Debug\StackClass.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  2 - Stacks\2-OurStackClassProb\StackClass\obj\Debug\StackClass.dll
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  2 - Stacks\2-OurStackClassProb\StackClass\obj\Debug\StackClass.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP260spr15\Topic  2 - Stacks\2-OurStackClassProb\StackClass\bin\Debug\StackClass.dll
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP260spr15\Topic  2 - Stacks\2-OurStackClassProb\StackClass\bin\Debug\StackClass.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP260spr15\Topic  2 - Stacks\2-OurStackClassProb\StackClass\obj\Debug\StackClass.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP260spr15\Topic  2 - Stacks\2-OurStackClassProb\StackClass\obj\Debug\StackClass.dll
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP260spr15\Topic  2 - Stacks\2-OurStackClassProb\StackClass\obj\Debug\StackClass.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring-18\Topic  2 - Stacks\2-OurStackClassProb\StackClass\bin\Debug\StackClass.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring-18\Topic  2 - Stacks\2-OurStackClassProb\StackClass\bin\Debug\StackClass.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring-18\Topic  2 - Stacks\2-OurStackClassProb\StackClass\obj\Debug\StackClass.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring-18\Topic  2 - Stacks\2-OurStackClassProb\StackClass\obj\Debug\StackClass.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring-18\Topic  2 - Stacks\2-OurStackClassProb\StackClass\obj\Debug\StackClass.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog260-Spring-18\Topic  2 - Stacks\2-OurStackClassProb\StackClass\obj\Debug\StackClass.pdb
+C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  2 - Stacks\2-OurStackClassProb\StackClass\bin\Debug\StackClass.dll
+C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  2 - Stacks\2-OurStackClassProb\StackClass\bin\Debug\StackClass.pdb
+C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  2 - Stacks\2-OurStackClassProb\StackClass\obj\Debug\StackClass.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  2 - Stacks\2-OurStackClassProb\StackClass\obj\Debug\StackClass.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  2 - Stacks\2-OurStackClassProb\StackClass\obj\Debug\StackClass.dll
+C:\Users\kurt.friedrich\Desktop\AAC-Prog260-Spring2019\Topic  2 - Stacks\2-OurStackClassProb\StackClass\obj\Debug\StackClass.pdb
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  2 - Stacks\2-OurStackClassProb\StackClass\obj\Debug\StackClass.csproj.AssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  2 - Stacks\2-OurStackClassProb\StackClass\obj\Debug\StackClass.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  2 - Stacks\2-OurStackClassProb\StackClass\obj\Debug\StackClass.dll
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  2 - Stacks\2-OurStackClassProb\StackClass\obj\Debug\StackClass.pdb
+C:\Users\kurt.friedrich\Downloads\Prog260\2-OurStackClassProb\2-OurStackClassProb\StackClass\bin\Debug\StackClass.dll
+C:\Users\kurt.friedrich\Downloads\Prog260\2-OurStackClassProb\2-OurStackClassProb\StackClass\bin\Debug\StackClass.pdb
+C:\Users\kurt.friedrich\Downloads\Prog260\2-OurStackClassProb\2-OurStackClassProb\StackClass\obj\Debug\StackClass.csproj.AssemblyReference.cache
+C:\Users\kurt.friedrich\Downloads\Prog260\2-OurStackClassProb\2-OurStackClassProb\StackClass\obj\Debug\StackClass.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Downloads\Prog260\2-OurStackClassProb\2-OurStackClassProb\StackClass\obj\Debug\StackClass.dll
+C:\Users\kurt.friedrich\Downloads\Prog260\2-OurStackClassProb\2-OurStackClassProb\StackClass\obj\Debug\StackClass.pdb

@@ -1,0 +1,56 @@
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\StacksUsingDotNet\StacksUsingDotNet\bin\Debug\StacksUsingDotNet.exe.config
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\StacksUsingDotNet\StacksUsingDotNet\bin\Debug\StacksUsingDotNet.exe
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\StacksUsingDotNet\StacksUsingDotNet\bin\Debug\StacksUsingDotNet.pdb
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.csprojResolveAssemblyReference.cache
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.exe
+c:\users\kurt.friedrich\documents\visual studio 2013\Projects\StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Module 2 - Stacks\StacksUsingDotNet\StacksUsingDotNet\bin\Debug\StacksUsingDotNet.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Module 2 - Stacks\StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Module 2 - Stacks\StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  2 - Stacks\StacksUsingDotNet\StacksUsingDotNet\bin\Debug\StacksUsingDotNet.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  2 - Stacks\StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  2 - Stacks\StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  2 - Stacks\StacksUsingDotNet\StacksUsingDotNet\bin\Debug\StacksUsingDotNet.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  2 - Stacks\StacksUsingDotNet\StacksUsingDotNet\bin\Debug\StacksUsingDotNet.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  2 - Stacks\StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  2 - Stacks\1-StacksUsingDotNet\StacksUsingDotNet\bin\Debug\StacksUsingDotNet.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  2 - Stacks\1-StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  2 - Stacks\1-StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  2 - Stacks\1-StacksUsingDotNet\StacksUsingDotNet\bin\Debug\StacksUsingDotNet.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  2 - Stacks\1-StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.exe
+C:\Users\kurt\Google Drive\BellevueCollege\BBB-Prog260-Algo-DataStruct\Topic  2 - Stacks\1-StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  2 - Stacks\1-StacksUsingDotNet\StacksUsingDotNet\bin\Debug\StacksUsingDotNet.exe.config
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  2 - Stacks\1-StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  2 - Stacks\1-StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  2 - Stacks\1-StacksUsingDotNet\StacksUsingDotNet\bin\Debug\StacksUsingDotNet.exe
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  2 - Stacks\1-StacksUsingDotNet\StacksUsingDotNet\bin\Debug\StacksUsingDotNet.pdb
+C:\Users\kurt.friedrich\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  2 - Stacks\1-StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.csprojResolveAssemblyReference.cache
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  2 - Stacks\1-StacksUsingDotNet (1)\1-StacksUsingDotNet\StacksUsingDotNet\bin\Debug\StacksUsingDotNet.exe.config
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  2 - Stacks\1-StacksUsingDotNet (1)\1-StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.exe
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  2 - Stacks\1-StacksUsingDotNet (1)\1-StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  2 - Stacks\1-StacksUsingDotNet (1)\1-StacksUsingDotNet\StacksUsingDotNet\bin\Debug\StacksUsingDotNet.exe
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  2 - Stacks\1-StacksUsingDotNet (1)\1-StacksUsingDotNet\StacksUsingDotNet\bin\Debug\StacksUsingDotNet.pdb
+C:\Users\kurt\Google Drive\BellevueCollege\A1AA-Prog260-Algo-DataStruct - Fall2015\Topic  2 - Stacks\1-StacksUsingDotNet (1)\1-StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP260spr15\Topic  2 - Stacks\1-StacksUsingDotNet\1-StacksUsingDotNet\StacksUsingDotNet\bin\Debug\StacksUsingDotNet.exe.config
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP260spr15\Topic  2 - Stacks\1-StacksUsingDotNet\1-StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.exe
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP260spr15\Topic  2 - Stacks\1-StacksUsingDotNet\1-StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP260spr15\Topic  2 - Stacks\1-StacksUsingDotNet\1-StacksUsingDotNet\StacksUsingDotNet\bin\Debug\StacksUsingDotNet.exe
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP260spr15\Topic  2 - Stacks\1-StacksUsingDotNet\1-StacksUsingDotNet\StacksUsingDotNet\bin\Debug\StacksUsingDotNet.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP260spr15\Topic  2 - Stacks\1-StacksUsingDotNet\1-StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog260\Topic  2 - Stacks\1-StacksUsingDotNet\StacksUsingDotNet\bin\Debug\StacksUsingDotNet.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog260\Topic  2 - Stacks\1-StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog260\Topic  2 - Stacks\1-StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.pdb
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  2 - Stacks\1-StacksUsingDotNet\StacksUsingDotNet\bin\Debug\StacksUsingDotNet.exe.config
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  2 - Stacks\1-StacksUsingDotNet\StacksUsingDotNet\bin\Debug\StacksUsingDotNet.exe
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  2 - Stacks\1-StacksUsingDotNet\StacksUsingDotNet\bin\Debug\StacksUsingDotNet.pdb
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  2 - Stacks\1-StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.csproj.AssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  2 - Stacks\1-StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  2 - Stacks\1-StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.exe
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  2 - Stacks\1-StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.pdb
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\1-StacksUsingDotNet\StacksUsingDotNet\bin\Debug\StacksUsingDotNet.exe.config
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\1-StacksUsingDotNet\StacksUsingDotNet\bin\Debug\StacksUsingDotNet.exe
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\1-StacksUsingDotNet\StacksUsingDotNet\bin\Debug\StacksUsingDotNet.pdb
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\1-StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.csproj.AssemblyReference.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\1-StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\1-StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.exe
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\1-StacksUsingDotNet\StacksUsingDotNet\obj\Debug\StacksUsingDotNet.pdb

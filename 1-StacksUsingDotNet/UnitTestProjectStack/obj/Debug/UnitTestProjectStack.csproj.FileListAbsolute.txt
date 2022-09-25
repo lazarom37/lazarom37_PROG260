@@ -1,0 +1,21 @@
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP260spr15\Topic  2 - Stacks\1-StacksUsingDotNet\1-StacksUsingDotNet\UnitTestProjectStack\bin\Debug\UnitTestProjectStack.dll
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP260spr15\Topic  2 - Stacks\1-StacksUsingDotNet\1-StacksUsingDotNet\UnitTestProjectStack\bin\Debug\UnitTestProjectStack.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP260spr15\Topic  2 - Stacks\1-StacksUsingDotNet\1-StacksUsingDotNet\UnitTestProjectStack\obj\Debug\UnitTestProjectStack.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP260spr15\Topic  2 - Stacks\1-StacksUsingDotNet\1-StacksUsingDotNet\UnitTestProjectStack\obj\Debug\UnitTestProjectStack.dll
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP260spr15\Topic  2 - Stacks\1-StacksUsingDotNet\1-StacksUsingDotNet\UnitTestProjectStack\obj\Debug\UnitTestProjectStack.pdb
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  2 - Stacks\1-StacksUsingDotNet\UnitTestProjectStack\bin\Debug\UnitTestProjectStack.dll
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  2 - Stacks\1-StacksUsingDotNet\UnitTestProjectStack\bin\Debug\UnitTestProjectStack.pdb
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  2 - Stacks\1-StacksUsingDotNet\UnitTestProjectStack\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  2 - Stacks\1-StacksUsingDotNet\UnitTestProjectStack\obj\Debug\UnitTestProjectStack.csproj.AssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  2 - Stacks\1-StacksUsingDotNet\UnitTestProjectStack\obj\Debug\UnitTestProjectStack.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  2 - Stacks\1-StacksUsingDotNet\UnitTestProjectStack\obj\Debug\UnitTestProjectStack.csproj.CopyComplete
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  2 - Stacks\1-StacksUsingDotNet\UnitTestProjectStack\obj\Debug\UnitTestProjectStack.dll
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  2 - Stacks\1-StacksUsingDotNet\UnitTestProjectStack\obj\Debug\UnitTestProjectStack.pdb
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\1-StacksUsingDotNet\UnitTestProjectStack\bin\Debug\UnitTestProjectStack.dll
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\1-StacksUsingDotNet\UnitTestProjectStack\bin\Debug\UnitTestProjectStack.pdb
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\1-StacksUsingDotNet\UnitTestProjectStack\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\1-StacksUsingDotNet\UnitTestProjectStack\obj\Debug\UnitTestProjectStack.csproj.AssemblyReference.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\1-StacksUsingDotNet\UnitTestProjectStack\obj\Debug\UnitTestProjectStack.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\1-StacksUsingDotNet\UnitTestProjectStack\obj\Debug\UnitTestProjectStack.csproj.CopyComplete
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\1-StacksUsingDotNet\UnitTestProjectStack\obj\Debug\UnitTestProjectStack.dll
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\1-StacksUsingDotNet\UnitTestProjectStack\obj\Debug\UnitTestProjectStack.pdb

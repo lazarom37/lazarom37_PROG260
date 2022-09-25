@@ -72,3 +72,13 @@ C:\Users\kurt.friedrich\Downloads\SmartArrayUT-Initialize\SmartArrayUT-Initializ
 C:\Users\kurt.friedrich\Downloads\SmartArrayUT-Initialize\SmartArrayUT-Initialize\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.csproj.CopyComplete
 C:\Users\kurt.friedrich\Downloads\SmartArrayUT-Initialize\SmartArrayUT-Initialize\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.dll
 C:\Users\kurt.friedrich\Downloads\SmartArrayUT-Initialize\SmartArrayUT-Initialize\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.pdb
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\SmartArrayUT-Initialize\UnitTestSmartArray\bin\Debug\UnitTestSmartArray.dll
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\SmartArrayUT-Initialize\UnitTestSmartArray\bin\Debug\UnitTestSmartArray.pdb
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\SmartArrayUT-Initialize\UnitTestSmartArray\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\SmartArrayUT-Initialize\UnitTestSmartArray\bin\Debug\SmartArrayLibrary.dll
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\SmartArrayUT-Initialize\UnitTestSmartArray\bin\Debug\SmartArrayLibrary.pdb
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\SmartArrayUT-Initialize\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.csproj.AssemblyReference.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\SmartArrayUT-Initialize\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\SmartArrayUT-Initialize\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.csproj.CopyComplete
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\SmartArrayUT-Initialize\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.dll
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\SmartArrayUT-Initialize\UnitTestSmartArray\obj\Debug\UnitTestSmartArray.pdb

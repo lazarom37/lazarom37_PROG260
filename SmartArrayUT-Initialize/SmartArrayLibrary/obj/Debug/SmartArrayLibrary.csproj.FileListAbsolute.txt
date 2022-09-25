@@ -57,3 +57,9 @@ C:\Users\kurt.friedrich\Downloads\SmartArrayUT-Initialize\SmartArrayUT-Initializ
 C:\Users\kurt.friedrich\Downloads\SmartArrayUT-Initialize\SmartArrayUT-Initialize\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.csproj.CoreCompileInputs.cache
 C:\Users\kurt.friedrich\Downloads\SmartArrayUT-Initialize\SmartArrayUT-Initialize\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.dll
 C:\Users\kurt.friedrich\Downloads\SmartArrayUT-Initialize\SmartArrayUT-Initialize\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.pdb
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\SmartArrayUT-Initialize\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.dll
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\SmartArrayUT-Initialize\SmartArrayLibrary\bin\Debug\SmartArrayLibrary.pdb
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\SmartArrayUT-Initialize\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.csproj.AssemblyReference.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\SmartArrayUT-Initialize\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\SmartArrayUT-Initialize\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.dll
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\SmartArrayUT-Initialize\SmartArrayLibrary\obj\Debug\SmartArrayLibrary.pdb
