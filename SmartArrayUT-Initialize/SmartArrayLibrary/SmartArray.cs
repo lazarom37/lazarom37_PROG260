@@ -76,8 +76,12 @@ namespace SmartArrayLibrary
             }
             return false;
         }
+        public int Length // returns the array's length as a property
 
-       
+        {
+            get { return UnderlyingArray.Length; }
+        }
+
     }  // end of SmartArray class
 }
 
