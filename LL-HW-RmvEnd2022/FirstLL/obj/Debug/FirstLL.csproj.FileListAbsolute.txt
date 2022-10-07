@@ -1,0 +1,28 @@
+C:\Users\kurt.friedrich\Documents\Prog260\FirstLLSol\FirstLL\bin\Debug\FirstLL.exe.config
+C:\Users\kurt.friedrich\Documents\Prog260\FirstLLSol\FirstLL\bin\Debug\FirstLL.exe
+C:\Users\kurt.friedrich\Documents\Prog260\FirstLLSol\FirstLL\bin\Debug\FirstLL.pdb
+C:\Users\kurt.friedrich\Documents\Prog260\FirstLLSol\FirstLL\obj\Debug\FirstLL.csproj.AssemblyReference.cache
+C:\Users\kurt.friedrich\Documents\Prog260\FirstLLSol\FirstLL\obj\Debug\FirstLL.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Documents\Prog260\FirstLLSol\FirstLL\obj\Debug\FirstLL.exe
+C:\Users\kurt.friedrich\Documents\Prog260\FirstLLSol\FirstLL\obj\Debug\FirstLL.pdb
+C:\Users\kurt.friedrich\Documents\Prog260\FirstLLSolExxtended\FirstLL\bin\Debug\FirstLL.exe.config
+C:\Users\kurt.friedrich\Documents\Prog260\FirstLLSolExxtended\FirstLL\bin\Debug\FirstLL.exe
+C:\Users\kurt.friedrich\Documents\Prog260\FirstLLSolExxtended\FirstLL\bin\Debug\FirstLL.pdb
+C:\Users\kurt.friedrich\Documents\Prog260\FirstLLSolExxtended\FirstLL\obj\Debug\FirstLL.csproj.AssemblyReference.cache
+C:\Users\kurt.friedrich\Documents\Prog260\FirstLLSolExxtended\FirstLL\obj\Debug\FirstLL.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Documents\Prog260\FirstLLSolExxtended\FirstLL\obj\Debug\FirstLL.exe
+C:\Users\kurt.friedrich\Documents\Prog260\FirstLLSolExxtended\FirstLL\obj\Debug\FirstLL.pdb
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  4 - Linked Lists\Part 1\LL-HW-RmvEnd2022\FirstLL\bin\Debug\FirstLL.exe.config
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  4 - Linked Lists\Part 1\LL-HW-RmvEnd2022\FirstLL\bin\Debug\FirstLL.exe
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  4 - Linked Lists\Part 1\LL-HW-RmvEnd2022\FirstLL\bin\Debug\FirstLL.pdb
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  4 - Linked Lists\Part 1\LL-HW-RmvEnd2022\FirstLL\obj\Debug\FirstLL.csproj.AssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  4 - Linked Lists\Part 1\LL-HW-RmvEnd2022\FirstLL\obj\Debug\FirstLL.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  4 - Linked Lists\Part 1\LL-HW-RmvEnd2022\FirstLL\obj\Debug\FirstLL.exe
+C:\Users\kurt.friedrich\Desktop\AAB-Prog260-Fall2022\Topic  4 - Linked Lists\Part 1\LL-HW-RmvEnd2022\FirstLL\obj\Debug\FirstLL.pdb
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\LL-HW-RmvEnd2022\FirstLL\bin\Debug\FirstLL.exe.config
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\LL-HW-RmvEnd2022\FirstLL\bin\Debug\FirstLL.exe
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\LL-HW-RmvEnd2022\FirstLL\bin\Debug\FirstLL.pdb
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\LL-HW-RmvEnd2022\FirstLL\obj\Debug\FirstLL.csproj.AssemblyReference.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\LL-HW-RmvEnd2022\FirstLL\obj\Debug\FirstLL.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\LL-HW-RmvEnd2022\FirstLL\obj\Debug\FirstLL.exe
+C:\Users\Marcus\Documents\GitHub\lazarom37_PROG260\LL-HW-RmvEnd2022\FirstLL\obj\Debug\FirstLL.pdb
