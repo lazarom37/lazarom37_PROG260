@@ -1,0 +1,14 @@
+C:\Users\Marcus\source\repos\PROG260_Factorial\PROG260_Factorial\bin\Debug\netcoreapp3.1\PROG260_Factorial.exe
+C:\Users\Marcus\source\repos\PROG260_Factorial\PROG260_Factorial\bin\Debug\netcoreapp3.1\PROG260_Factorial.deps.json
+C:\Users\Marcus\source\repos\PROG260_Factorial\PROG260_Factorial\bin\Debug\netcoreapp3.1\PROG260_Factorial.runtimeconfig.json
+C:\Users\Marcus\source\repos\PROG260_Factorial\PROG260_Factorial\bin\Debug\netcoreapp3.1\PROG260_Factorial.runtimeconfig.dev.json
+C:\Users\Marcus\source\repos\PROG260_Factorial\PROG260_Factorial\bin\Debug\netcoreapp3.1\PROG260_Factorial.dll
+C:\Users\Marcus\source\repos\PROG260_Factorial\PROG260_Factorial\bin\Debug\netcoreapp3.1\PROG260_Factorial.pdb
+C:\Users\Marcus\source\repos\PROG260_Factorial\PROG260_Factorial\obj\Debug\netcoreapp3.1\PROG260_Factorial.csproj.AssemblyReference.cache
+C:\Users\Marcus\source\repos\PROG260_Factorial\PROG260_Factorial\obj\Debug\netcoreapp3.1\PROG260_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\source\repos\PROG260_Factorial\PROG260_Factorial\obj\Debug\netcoreapp3.1\PROG260_Factorial.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\PROG260_Factorial\PROG260_Factorial\obj\Debug\netcoreapp3.1\PROG260_Factorial.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\PROG260_Factorial\PROG260_Factorial\obj\Debug\netcoreapp3.1\PROG260_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\PROG260_Factorial\PROG260_Factorial\obj\Debug\netcoreapp3.1\PROG260_Factorial.dll
+C:\Users\Marcus\source\repos\PROG260_Factorial\PROG260_Factorial\obj\Debug\netcoreapp3.1\PROG260_Factorial.pdb
+C:\Users\Marcus\source\repos\PROG260_Factorial\PROG260_Factorial\obj\Debug\netcoreapp3.1\PROG260_Factorial.genruntimeconfig.cache
